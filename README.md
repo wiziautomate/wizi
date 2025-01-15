@@ -1,1 +1,3 @@
-# wizi
+# Wizi is an intelligent automation tool designed to simplify and enhance the user experience by automating repetitive tasks on Windows computers. It is capable of simulating user actions such as mouse clicks, keyboard inputs, and interactions with on-screen elements based on real-time screen analysis. By leveraging cutting-edge image recognition and automation technologies, Wizi can detect visual content displayed on the screen, understand the context of that content, and perform tasks as specified by the user—all without requiring user intervention. (that's the idea anyway)
+
+# Libraries used: 
